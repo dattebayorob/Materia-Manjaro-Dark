@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" version="1">
  <defs>
   <linearGradient id="linearGradient4209">
-   <stop style="stop-color:#000000" offset="0"/>
-   <stop style="stop-color:#000000;stop-opacity:0" offset="1"/>
+   <stop style="stop-color:#00776c" offset="0"/>
+   <stop style="stop-color:#00776c;stop-opacity:0" offset="1"/>
   </linearGradient>
   <radialGradient id="radialGradient4201" cx="63.894" cy="61.058" r="9" fx="63.894" fy="61.058" gradientTransform="matrix(-6.1375001e-7,1.2222228,-1.2222222,-6.2559558e-7,142.62634,-21.09247)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4209"/>
   <radialGradient id="radialGradient4203" cx="-31.636" cy="8.519" r="8.182" fx="-31.636" fy="8.519" gradientTransform="matrix(0,1.44437,-0.99999988,0,-23.570787,54.693527)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4209"/>
@@ -29,11 +29,11 @@
  </g>
  <g id="pressed" transform="matrix(1.6,0,0,1.6,156.344,16.056)">
   <rect style="opacity:0.001" width="20" height="20" x="-42.09" y="-1.91"/>
-  <circle style="fill:#009687" cx="-32" cy="8" r="8" transform="matrix(1.015625,0,0,1.015625,0.4098513,-0.0349999)"/>
+  <circle style="fill:#009688" cx="-32" cy="8" r="8" transform="matrix(1.015625,0,0,1.015625,0.4098513,-0.0349999)"/>
  </g>
  <g id="22-22-pressed" transform="matrix(1.1,0,0,1.1,141.299,56.101)">
   <rect style="opacity:0.001" width="20" height="20" x="-42.09" y="-1.91"/>
-  <path style="fill:#009687" transform="matrix(1.0227273,0,0,1.0227273,0.63711821,-0.0918182)" d="m -24,8 a 8,8 0 0 1 -8,8 8,8 0 0 1 -8,-8 8,8 0 0 1 8,-8 8,8 0 0 1 8,8 z"/>
+  <path style="fill:#009688" transform="matrix(1.0227273,0,0,1.0227273,0.63711821,-0.0918182)" d="m -24,8 a 8,8 0 0 1 -8,8 8,8 0 0 1 -8,-8 8,8 0 0 1 8,-8 8,8 0 0 1 8,8 z"/>
  </g>
  <g id="hover">
   <rect style="opacity:0.001" width="32" height="32" x="11" y="34"/>
