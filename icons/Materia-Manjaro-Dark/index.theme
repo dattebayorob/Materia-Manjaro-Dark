@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=Materia Manjaro Dark
-Comment=Simple and flat icon theme mande for Materia Manjaro Dark 
+Comment=Simple icons adapted from Sardi for Materia Manjaro Dark
 Inherits=breeze-dark,hicolor
 Example=folder
 
