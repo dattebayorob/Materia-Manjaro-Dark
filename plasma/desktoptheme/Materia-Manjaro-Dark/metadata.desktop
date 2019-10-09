@@ -1,7 +1,9 @@
 [Desktop Entry]
 Name=Materia Manjaro Dark
 
-X-KDE-PluginInfo-Author=Alexey Varfolomeev for original/Josh Freeno/Manjaro
+Comment= Materia Manjaro Dark is a port of the popular Materia Dark theme
+
+X-KDE-PluginInfo-Author=freefreeno
 X-KDE-PluginInfo-Email=freefreeno81@gmail.com
 X-KDE-PluginInfo-Name=Materia Manjaro Dark
 X-KDE-PluginInfo-Version=

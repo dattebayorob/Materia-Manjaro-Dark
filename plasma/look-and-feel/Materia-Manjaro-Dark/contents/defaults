@@ -21,4 +21,4 @@ library=org.kde.kwin.aurorae
 theme=__aurorae__svg__Materia-Manjaro-Dark-Gradient
 
 [plasmarc][Theme]
-name=Materia-Manjaro-Dark
+name=Materia-Manjaro-Dark-Blur-Mono
